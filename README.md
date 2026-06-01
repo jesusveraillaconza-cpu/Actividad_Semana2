@@ -1,2 +1,3 @@
 # Actividad_Semana2
-Estado del trabajo: version de rama conflicto.
+
+Estado del trabajo: version final resuelta.

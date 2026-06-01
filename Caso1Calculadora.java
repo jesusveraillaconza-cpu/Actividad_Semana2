@@ -1,3 +1,4 @@
+// Mejora realizada en la rama rama-mejoras
 package casos;
 
 import java.util.Scanner;
